@@ -12,7 +12,7 @@ Feel free to create a pull request to add a resource you belive should be includ
 
 # Guides 📖
 - How I Passed OSCP with 100 points in 12 hours in my first attempt - [Read](https://blog.adithyanak.com/oscp-preparation-guide)
-- Hack the Box OSCP Preparation[Read](https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/)
+- Hack the Box OSCP Preparation - [Read](https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/)
 - Ultimate Guide by [@six2dez](https://twitter.com/six2dez1) - [Read](https://github.com/six2dez/OSCP-Human-Guide/blob/master/oscp_human_guide.md)
 - For Complete Newbies - [Read](https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 - A more detailed list of Resources - [Read](https://github.com/0x4D31/awesome-oscp)
