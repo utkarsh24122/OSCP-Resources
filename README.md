@@ -1,6 +1,8 @@
 # OSCP-Resources ✨
 Just a compilation of OSCP Preparation Resources
 
+- Recently made it public for my fellow OSCP aspirants.😄
+
 Feel free to create a pull request to add a resource you belive should be included here.
 
 # Blogs 🧐
