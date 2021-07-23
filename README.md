@@ -6,8 +6,8 @@ Just a compilation of OSCP Preparation Resources
 Feel free to create a pull request to add a resource you belive should be included here.
 
 # Blogs 🧐
-- [My OSCP Journey — A Review] by [@rana__khalil](https://twitter.com/rana__khalil) - [Read](https://ranakhalil101.medium.com/my-oscp-journey-a-review-fa779b4339d9)
-- How i passed my OSCP exam first try with no prior hacking experienceby [@theXSSrat](https://twitter.com/theXSSrat) - [Read](https://infosecwriteups.com/how-i-passed-my-oscp-exam-first-try-with-no-prior-hacking-experience-19029432e7b9)
+- My OSCP Journey — A Review by [@rana__khalil](https://twitter.com/rana__khalil) - [Read](https://ranakhalil101.medium.com/my-oscp-journey-a-review-fa779b4339d9)
+- How i passed my OSCP exam first try with no prior hacking experience by [@theXSSrat](https://twitter.com/theXSSrat) - [Read](https://infosecwriteups.com/how-i-passed-my-oscp-exam-first-try-with-no-prior-hacking-experience-19029432e7b9)
 - List of Hack the box writeups - [Read](https://ranakhalil101.medium.com/)
 
 # Guides 📖
